@@ -7,3 +7,5 @@ the URL (which change over time based on how many searches you do within a small
 the casual online searcher who finds the name of a new product, wants to copy the name and press one button to find it on Amazon.  So, 
 if a user performs more than ten searches in a short period of time the search will take the user to the product list page instead of
 straight to the first product listed from the search.
+
+To run the program, copy the name of any product you want to search for and then run the run.bat file to go straight to the Amazon page.
